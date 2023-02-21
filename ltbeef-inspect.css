@@ -1,0 +1,56 @@
+.ltbeef-inspect-container {
+  width: 100%;
+  display: flex;
+  overflow: auto;
+  min-height: 100vh;
+  align-items: center;
+  flex-direction: column;
+}
+.ltbeef-inspect-text {
+  font-size: 35px;
+}
+.ltbeef-inspect-text02 {
+  font-size: 35px;
+}
+.ltbeef-inspect-text04 {
+  font-size: 35px;
+}
+.ltbeef-inspect-text05 {
+  font-size: 35px;
+}
+.ltbeef-inspect-text07 {
+  font-size: 35px;
+}
+.ltbeef-inspect-text09 {
+  font-size: 35px;
+}
+.ltbeef-inspect-text11 {
+  font-size: 35px;
+}
+.ltbeef-inspect-text12 {
+  font-size: 35px;
+}
+.ltbeef-inspect-text14 {
+  font-size: 35px;
+}
+.ltbeef-inspect-text16 {
+  font-size: 35px;
+}
+.ltbeef-inspect-text17 {
+  font-size: 35px;
+}
+.ltbeef-inspect-text18 {
+  font-size: 35px;
+}
+.ltbeef-inspect-text20 {
+  font-size: 35px;
+}
+.ltbeef-inspect-text22 {
+  font-size: 35px;
+}
+.ltbeef-inspect-text23 {
+  font-size: 35px;
+}
+.ltbeef-inspect-text24 {
+  font-size: 35px;
+}

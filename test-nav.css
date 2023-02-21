@@ -1,0 +1,14 @@
+.test-nav-container {
+  width: 100%;
+  display: flex;
+  overflow: auto;
+  min-height: 100vh;
+  align-items: flex-start;
+  flex-direction: column;
+  justify-content: center;
+}
+.test-nav-text {
+  top: 27px;
+  right: -123px;
+  position: absolute;
+}

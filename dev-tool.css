@@ -1,0 +1,29 @@
+.dev-tool-container {
+  width: 100%;
+  display: flex;
+  overflow: auto;
+  min-height: 100vh;
+  align-items: center;
+  flex-direction: column;
+}
+.dev-tool-text {
+  font-size: 35px;
+}
+.dev-tool-text02 {
+  font-size: 35px;
+}
+.dev-tool-text04 {
+  font-size: 35px;
+}
+.dev-tool-text06 {
+  font-size: 35px;
+}
+.dev-tool-text08 {
+  font-size: 35px;
+}
+.dev-tool-text10 {
+  font-size: 35px;
+}
+.dev-tool-text12 {
+  font-size: 35px;
+}
